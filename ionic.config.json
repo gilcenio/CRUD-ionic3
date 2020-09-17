@@ -1,0 +1,8 @@
+{
+  "name": "CRUDIonic3Atualizado",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
